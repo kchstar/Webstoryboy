@@ -1,0 +1,36 @@
+body {
+    background: #c8e6c9;
+}
+#wrap {
+    width: 1000px; 
+    height: 900px; 
+    margin: 0 auto;
+}
+header {
+    width: 1000px; 
+    height: 100px; 
+    background: #2e7d32;
+}
+nav {
+    width: 1000px; 
+    height: 100px; 
+    background: #388e3c; 
+}
+aside {
+    float: left; 
+    width: 300px; 
+    height: 600px; 
+    background: #43a047;
+}
+section {
+    float: left; 
+    width: 700px; 
+    height: 600px; 
+    background: #4caf50;
+}
+footer {
+    float: left; 
+    width: 1000px; 
+    height: 100px; 
+    background: #66bb6a;
+}
